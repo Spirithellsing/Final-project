@@ -1,0 +1,204 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+}
+.header {
+    background-image: url(../img/BackgroundHeader.png);
+    background-size: auto;
+    max-width: 1920px;
+}
+
+.contacts {
+    max-width: 1200px;
+    color: white;
+    margin: auto;
+    font-size: 15px;
+}
+
+.headerinfo {
+    margin-top: 25px;
+    font-size: 12px;
+}
+
+.chat {
+    margin-right: 10px;
+}
+
+.phone {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.mail {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.headerinfo2 {
+    margin-top: 20px;
+    text-align: right;
+}
+
+.buy {
+    margin-right: 10px;
+}
+
+
+.logo {
+    margin-top: 33px;
+}
+
+.nav {
+    font-size: 14px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: white;/* Спросить про цвет */
+    /* line-height: 60px; */
+}
+
+.nav :active {
+    color: black;
+}
+
+.nav :hover {
+    color: #00aeef;
+}
+
+.headerslogan {
+    color: white;
+    text-align: center;
+    margin-top: 185px;
+    font-size: 42px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.button {
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 240px;
+    margin-bottom: 201px;
+}
+
+.content {
+    max-width: 1200px;
+}
+
+/* .contentblock {
+    
+    
+} */
+
+.texttitle {
+    margin-top: 115px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.textblock {
+    font-size: 15px;
+    line-height: 27px;
+    margin-top: 14px;
+}
+
+.textblock2 {
+    font-size: 15px;
+    margin-top: 12px;
+    line-height: 27px;
+}
+
+.iconblock {
+    margin-top: 45px;
+    text-align: left;
+}
+
+.iconblockinfo {
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 5px;    
+}
+
+.iconblocknumbers {
+    font-weight: 400;
+}
+
+.iconblockline2 {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.foto {
+    text-align: right;
+    margin-top: 125px;
+}
+
+.block3 {
+    max-width: 1925px;
+    margin-top: 122px;
+    padding: 0;
+    background-image: url(../img/2-layers.png);
+    background-repeat: no-repeat;
+}
+
+.block3content {
+    max-width: 1200px;
+    margin: auto;
+    color: white;
+}
+
+.block3main {
+    margin-top: 75px;
+    text-align: justify;
+}
+
+.block3title {
+    margin-left: 100px;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.block3text {
+    margin-left: 100px;
+    font-size: 15px;
+    margin-top: 12px;
+    line-height: 27px;
+}
+
+.block3text2 {
+    margin-left: 100px;
+    font-size: 15px;
+    margin-top: 10px;
+    line-height: 27px;
+    margin-bottom: 75px;
+}
+
+.block4 {
+    max-width: 1200px;
+    padding: 0;
+}
+
+.block4title {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 110px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.block4buttons {
+    text-align: center;
+}
+
+
+
+
+    
+    
+
+
